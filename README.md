@@ -1,1 +1,1 @@
-# hacktober-contributores
+# hacktober-contributors
